@@ -1,177 +1,174 @@
-👋 Bonjour, je suis Jacques Imanirakiza Hitimana
-
-🎓 Gradué en Gestion des Institutions de Santé (BAC+3)
-🔐 Sécurité humanitaire • 📊 Data Management • 📦 Logistique • 🌍 RDC
-
-Bienvenue sur mon portfolio GitHub où je partage mes projets, contributions et expériences dans les domaines humanitaire, santé, gestion des données et solutions numériques.
+🎓 Licencié (BAC+5) en Gestion des Institutions de Santé (BAC+3)
+🔐 Professionnel de la sécurité humanitaire et de la logistique
+📊 Gestionnaire de données | Auteur | Contributeur digital
 
 ---
 
-🚀 À propos de moi
+# À propos de moi
 
-Professionnel engagé avec une expérience dans :
-
-- 🔐 Sécurité des organisations humanitaires
-- 📊 Gestion et analyse de données sanitaires
-- 📦 Logistique humanitaire
-- 🌐 Projets numériques pour la santé et les ONG
-
-J’ai travaillé ou collaboré avec plusieurs organisations humanitaires internationales :
-
+Je suis un professionnel engagé dans les opérations humanitaires, la sécurité des installations et la gestion de données, avec plus de 2 ans d'expérience dans des organisations internationales.
+J'ai travaillé avec des ONGi et des structures sanitaires comme :
 - Médecins Sans Frontières (MSF)
 - Première Urgence Internationale (PUI)
 - Action Contre la Faim (ACF)
+- Zone de Santé Urbaine de Goma
+- Hôpital Général de Référence VIRUNGA
 
-Je m’intéresse particulièrement à l’utilisation de la technologie et des données pour améliorer l’accès aux soins et soutenir les organisations humanitaires.
+# Je m'intéresse particulièrement à :
+- La sécurité humanitaire
+- La logistique et gestion d'infrastructures
+- La gestion et l'analyse de données
+- Les projets numériques et la contribution web
 
----
-
-🧑‍💻 Projets
-
-🌍 Plateforme Soignants
-
-🔗 https://www.soignants.org
-
-Rôle : Auteur • Contributeur • Data Manager
-
-Description
-
-Plateforme dédiée aux professionnels de santé et acteurs humanitaires visant à :
-
-- partager des ressources médicales
-- diffuser des connaissances utiles aux soignants
-- améliorer l’accès à l’information sanitaire
-
-Objectifs
-
-- faciliter l’accès aux ressources médicales
-- soutenir la formation continue des soignants
-- connecter les professionnels de santé
+Je suis également auteur, rédacteur web et contributeur sur https://www.soignants.org
 
 ---
 
-📊 Gestion des données sanitaires – PCI/WASH
+# Expérience professionnelle
 
-Projet réalisé au Bureau Central de la Zone de Santé Urbaine de Goma.
+1. Gardien journalier — Première Urgence Internationale (PUI) à Bambo, du 16 décembre 2025 au 17 janvier 2026
+* Responsabilités principales :
+- Gestion des accès et contrôle des visiteurs
+- Surveillance des installations et équipements
+- Gestion des mouvements de véhicules
+- Suivi du carburant et du générateur
+- Sécurité des biens et des personnes
 
-Activités
+2. Gardien de réserve — Médecins Sans Frontières France, projet Bambo, du 15 juillet 2025 à présent
+* Responsabilités :
+- Surveillance de la base MSF
+- Contrôle des entrées et sorties
+- Coordination avec l'administration
+- Surveillance technique des installations
+- Signalement des incidents de sécurité
 
-- gestion et structuration des bases de données
-- contrôle qualité des données sanitaires
-- analyse et transmission d’alertes
-- collaboration avec MSF, OMS et IMA World Health
 
-Impact
+3. Manutentionnaire — Action Contre la Faim à Bambo, du 18 au 19 Août 2025
+* Responsabilités :
+- Chargement et déchargement de marchandises
+- Organisation du dépôt pharmaceutique
+- Entretien et gestion des stocks
 
-Amélioration de la qualité des données sanitaires et de la prise de décision dans les programmes WASH et PCI.
+4. Gestionnaire de données PCI-WASH dans la Zone de Santé Urbaine de Goma, depuis octobre 2024 jusqu'en juillet 2025
+*Responsabilités :
+- Gestion et qualité des bases de données
+- Coordination avec partenaires (MSF, OMS, IMA World Health)
+- Transmission d’alertes et analyses de données
+
+5. Administrateur Gestionnaire des institutions de santé Trainingeur au BCZ Goma
+6. Administrateur Gestionnaire Trainingeur à l'Hôpital Général de Référence VIRUNGA
+ 
+---
+
+# Formations académiques 
+
+•  Licence et Graduat en Gestion des Institutions de Santé à l'Institut Supérieur des Techniques Médicales de Goma (ISTM)
+
+# Autres formations :
+
+- Gestion de la sécurité pour ONG — INSO
+- Sécurité humanitaire — MSF
+- Stay Safe 2.0 — IFRC
+- Logistique humanitaire — HOLIZA / NRC
 
 ---
 
-📦 Logistique humanitaire
+# Compétences
 
-Expérience acquise dans les opérations humanitaires.
+• Sécurité et opérations humanitaires
+- Gestion des accès
+- Surveillance des installations
+- Analyse des incidents
+- Gestion des risques
 
-Activités
+• Logistique humanitaire
+- Gestion des stocks
+- Organisation de dépôts
+- Suivi des équipements
+- Gestion d'infrastructures
 
-- gestion des stocks et inventaires
-- organisation logistique
-- gestion des installations
-- suivi des équipements
-
-Organisations
-
-- Action Contre la Faim (ACF)
-- Médecins Sans Frontières (MSF)
-
----
-
-🔐 Sécurité des organisations humanitaires
-
-Expérience dans la sécurité des installations et du personnel humanitaire.
-
-Activités
-
-- contrôle des accès
-- gestion des visiteurs
-- surveillance des installations
-- gestion des incidents de sécurité
-
-Organisations
-
-- Médecins Sans Frontières (MSF)
-- Première Urgence Internationale (PUI)
+• Gestion de données
+- Collecte et analyse de données
+- Assurance qualité des bases de données
+- Traitement et analyse des données avec Excel Avancé, Power BI, SPSS, SPHINX, etc.
+- Reporting opérationnel
 
 ---
 
-🛠 Compétences
+# Compétences informatiques
 
-💻 Informatique
-
-- Microsoft Word (Avancé)
-- Microsoft Excel (Tableaux de bord, TCD)
+Microsoft Office :
+- Word (Avancé) - UBS Congo
+- Excel (TCD, fonctions avancées)
 - PowerPoint
 - Outlook
-- Microsoft Teams
-- Zoom
-- Gestion documentaire
 
-📊 Data & Gestion
-
-- gestion de bases de données
-- analyse de données sanitaires
-- suivi et reporting
-- gestion documentaire
-
-🔐 Sécurité & Logistique
-
-- sécurité des installations
-- gestion des accès
-- surveillance
-- logistique humanitaire
+Autres outils :
+- Microsoft Teams,
+- Power BI,
+- DHIS2,
+- SPSS,
+- SPHINX,
+- Zoom,
+- OneDrive,
+- Internet & collaboration numérique
 
 ---
 
-🌍 Langues
+🌐 Langues
 
 Langue| Niveau
-Français| C2
-Anglais| C1
-Swahili| C2
-Kinyarwanda| C2
+🇫🇷 Français| C2
+🇬🇧 Anglais| C1
+🇨🇩 Swahili| C2
+🇷🇼 Kinyarwanda| C2
 Lingala| A2
 
 ---
 
-# 📜 Certifications
+📚 Centres d'intérêt
 
-- INSO – Gestion de la sécurité pour les ONG
-- MSF – Bases de gestion de la sécurité
-- IFRC – Stay Safe 2.0
-- HOLIZA / NRC – Logistique humanitaire
-- MSF – Logistique et communication
+- ✍️ Écriture et création
+- 🌐 Innovation numérique et web coding
+- 📖 Lecture et apprentissage
+- 🔎 Découverte
+- ⚽ Sport
 
 ---
 
-# 📫 Me contacter
+# Liens professionnels
 
-📧 Email : jacques.imanirakiza@outlook.fr
-📧 Email : jacques@soignants.org
+🌐 Site / Contribution
+https://www.soignants.org
 
 💼 LinkedIn
 https://www.linkedin.com/in/imhjacques1
 
-🌐 Site web
-https://www.soignants.org
+📷 Images professionnelles
+https://urlz.fr/sPhR
 
-📱 WhatsApp
-https://wa.me/qr/CKZCLSV7VDDSL1
-
----
-
-🎯 Objectif
-
-Utiliser la technologie, la gestion des données et l’expérience humanitaire pour contribuer à améliorer les systèmes de santé et soutenir les organisations internationales.
+📧 Email
+jacques.imanirakiza@outlook.fr
 
 ---
 
-⭐ Merci de visiter mon profil GitHub. N’hésitez pas à explorer mes projets et à collaborer avec moi.
+# Collaborations
+
+Je suis ouvert à collaborer sur des projets liés à :
+- Humanitaire
+- Santé publique
+- Logistique
+- Gestion des données
+- Projets numériques
+- Finances et Ressources Humaines pour une administration optimale d'une organisation ou une structure 
+
+---
+
+N'hésitez pas à explorer mes projets et à me contacter pour collaborer.
+
+Merci pour votre visite !
+
+--
+
+
+© 2026 IMANIRAKIZA HITIMANA Jacques • Portfolio professionnel • Conçu et développé par Jacques
