@@ -104,6 +104,6 @@ Institut Supérieur des Techniques Médicales de Goma (2018-2021)
 
 Remarque: les contacts des nos références ne sont fournis que par demande
 
---
+---
 
 © 2026 IMANIRAKIZA HITIMANA Jacques • Portfolio professionnel • Conçu et développé par Jacques
