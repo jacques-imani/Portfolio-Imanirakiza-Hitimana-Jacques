@@ -25,7 +25,9 @@ Gardien expérimenté avec plus de 2 ans d'expériences dans les opérations hum
 - Outlook
 
 ---
+
 # Expérience professionnelle
+
 ## 1. De Juillet 2025 - Présent| Gardien pool de réserve — Médecins Sans Frontières France ( projet Bambo)
    * Responsabilités :
      - Surveillance de la base MSF
@@ -33,26 +35,31 @@ Gardien expérimenté avec plus de 2 ans d'expériences dans les opérations hum
      - Coordination avec l'administration
      - Surveillance technique des installations
      - Signalement des incidents de sécurité
+     
 ## 2. De décembre - Janvier 2026 | Gardien journalier — Première Urgence Internationale à Bambo
    * Responsabilités principales :
      - Gestion des accès et contrôle des visiteurs
      - Surveillance des installations et équipements
      - Gestion des mouvements de véhicules
      - Suivi du carburant et du générateur
-     - Sécurité des biens et des personnes 
+     - Sécurité des biens et des personnes
+
 ## 3. Août 2025 | Manutentionnaire — Action Contre la Faim à Bambo
    * Responsabilités :
    * - Chargement et déchargement de marchandises
      -  Organisation du dépôt pharmaceutique
      -  Entretien et gestion des stocks
+
 ## 4. D'Octobre 2024 - Juillet 2025 | Gestionnaire de données PCI-WASH dans la Zone de Santé Urbaine de Goma(Goma)
    * Responsabilités :
      - Gestion et qualité des bases de données
      - Coordination avec partenaires (MSF, OMS, IMA World Health)
      - Transmission d’alertes et analyses de données
+
 ## 5. 2024 | Administrateur Gestionnaire des institutions de santé Trainingeur — BCZ Goma(Goma)
      - Gestion des finances, ressources humaines, matériels et des médicaments
      - Gestion des données médicales
+
 ## 6. 2023-2024 | Administrateur Gestionnaire Trainingeur — Hôpital Général de Référence VIRUNGA(Goma)
      - Gestion des finances, ressources humaines, matériels et des médicaments
      - Gestion des données médicales
