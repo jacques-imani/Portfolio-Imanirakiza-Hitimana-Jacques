@@ -1,29 +1,54 @@
-🎓 Licencié (BAC+5) en Gestion des Institutions de Santé (BAC+3)
-🔐 Professionnel de la sécurité humanitaire et de la logistique
-📊 Gestionnaire de données | Auteur | Contributeur digital
+# IMANIRAKIZA HITIMANA Jacques
+Gardien, Data Manager, Blogger, AG
 
 ---
 
-# À propos de moi
+# Profil professionnel 
 
-Je suis un professionnel engagé dans les opérations humanitaires, la sécurité des installations et la gestion de données, avec plus de 2 ans d'expérience dans des organisations internationales.
-J'ai travaillé avec des ONGi et des structures sanitaires comme :
-- Médecins Sans Frontières (MSF)
-- Première Urgence Internationale (PUI)
-- Action Contre la Faim (ACF)
-- Zone de Santé Urbaine de Goma
-- Hôpital Général de Référence VIRUNGA
+Gardien expérimenté avec plus de 2 ans d'expériences dans les opérations humanitaires, la gestion des accès aux locaux, la sûreté et sécurité des biens et du personnel.
+---
 
-# Je m'intéresse particulièrement à :
-- La sécurité humanitaire
-- La logistique et gestion d'infrastructures
-- La gestion et l'analyse de données
-- Les projets numériques et la contribution web
+# Compétences clés 
 
-Je suis également auteur, rédacteur web et contributeur sur https://www.soignants.org
+## Sécurité et opérations humanitaires
+- Gestion des accès
+- Surveillance des installations
+- Analyse des incidents
+- Gestion des risques
+
+## Logistique humanitaire
+- Gestion des stocks
+- Organisation de dépôts
+- Suivi des équipements
+- Gestion d'infrastructures
+
+## Gestion de données
+- Collecte et analyse de données
+- Assurance qualité des bases de données
+- Traitement et analyse des données avec Excel Avancé, Power BI, SPSS, SPHINX, etc.
+- Reporting opérationnel
 
 ---
 
+# Compétences informatiques
+
+## Microsoft Office :
+- Word (Avancé) - UBS Congo
+- Excel (TCD, fonctions avancées)
+- PowerPoint
+- Outlook
+
+## Autres outils :
+- Microsoft Teams,
+- Power BI,
+- DHIS2,
+- SPSS,
+- SPHINX,
+- Zoom,
+- OneDrive,
+- Internet & collaboration numérique
+
+--
 # Expérience professionnelle
 
 1. Gardien journalier — Première Urgence Internationale (PUI) à Bambo, du 16 décembre 2025 au 17 janvier 2026
@@ -73,67 +98,15 @@ Je suis également auteur, rédacteur web et contributeur sur https://www.soigna
 
 ---
 
-# Compétences
-
-• Sécurité et opérations humanitaires
-- Gestion des accès
-- Surveillance des installations
-- Analyse des incidents
-- Gestion des risques
-
-• Logistique humanitaire
-- Gestion des stocks
-- Organisation de dépôts
-- Suivi des équipements
-- Gestion d'infrastructures
-
-• Gestion de données
-- Collecte et analyse de données
-- Assurance qualité des bases de données
-- Traitement et analyse des données avec Excel Avancé, Power BI, SPSS, SPHINX, etc.
-- Reporting opérationnel
-
----
-
-# Compétences informatiques
-
-Microsoft Office :
-- Word (Avancé) - UBS Congo
-- Excel (TCD, fonctions avancées)
-- PowerPoint
-- Outlook
-
-Autres outils :
-- Microsoft Teams,
-- Power BI,
-- DHIS2,
-- SPSS,
-- SPHINX,
-- Zoom,
-- OneDrive,
-- Internet & collaboration numérique
-
----
-
-🌐 Langues
+# Langues
 
 Langue| Niveau
-🇫🇷 Français| C2
-🇬🇧 Anglais| C1
-🇨🇩 Swahili| C2
-🇷🇼 Kinyarwanda| C2
-Lingala| A2
-
----
-
-📚 Centres d'intérêt
-
-- ✍️ Écriture et création
-- 🌐 Innovation numérique et web coding
-- 📖 Lecture et apprentissage
-- 🔎 Découverte
-- ⚽ Sport
-
+- Français| C2
+- Anglais| C1
+- Swahili| C2
+- Kinyarwanda| C2
+- Lingala| A2
+  
 ---
 
 # Liens professionnels
