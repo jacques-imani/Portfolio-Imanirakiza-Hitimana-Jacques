@@ -23,6 +23,7 @@ Gardien expérimenté avec plus de 2 ans d'expériences dans les opérations hum
 - PowerPoint
 - Access
 - Outlook
+
 ---
 # Expérience professionnelle
 ## 1. De Juillet 2025 - Présent| Gardien pool de réserve — Médecins Sans Frontières France ( projet Bambo)
@@ -70,12 +71,12 @@ Institut Supérieur des Techniques Médicales de Goma (2018-2021)
 - Fondamentaux de la logistique humanitaire — HOLIZA Consulting Group (2025)
 ---
 # Langues
-- Langue| CECRL| Niveau
-- Français| C2| Langue maternelle
-- Anglais| B2| Niveau professionnel 
-- Swahili| C2| Langue maternelle 
-- Kinyarwanda| C2| Langue maternelle 
-- Lingala| A2 | Niveau débutant
+- Langue| Niveau CECRL
+- Français| C2 : Langue maternelle
+- Anglais| B2 : Niveau professionnel 
+- Swahili| C2 : Langue maternelle 
+- Kinyarwanda| C2 : Langue maternelle 
+- Lingala| A2 : Niveau débutant
 
 ---
 # Projets & Créativité
