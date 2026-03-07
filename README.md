@@ -70,7 +70,7 @@ Institut Supérieur des Techniques Médicales de Goma (2018-2021)
 - Fondamentaux de la logistique humanitaire — HOLIZA Consulting Group (2025)
 ---
 # Langues
-### Langue| CECRL| Niveau
+Langue| CECRL| Niveau
 - Français| C2| Langue maternelle
 - Anglais| B2| Niveau professionnel 
 - Swahili| C2| Langue maternelle 
